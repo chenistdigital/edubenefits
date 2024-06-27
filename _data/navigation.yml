@@ -1,0 +1,93 @@
+# Navigation configuration file
+##
+### to add or remove menu item
+### param "title" - Menu item name
+### param "url" - Menu item url
+### param "parent" - set "1" for enable submenu and "childs" param
+
+main:
+  # Home
+  - title: "Home"
+    url: "/"
+    parent: 0
+
+  # Services
+  #- title: "Servicii"
+  #  url: "#services-section"
+  #  parent: 0
+
+  # Skills
+  #- title: "Skills"
+  #  url: "#skills-section"
+  #  parent: 0
+
+  # Works
+  #- title: "Works"
+  #  url: "#works-section"
+  #  parent: 0
+
+  # Despre
+  - title: "Despre"
+    url: "https://edubenefits.scoalabritanica.ro/despre/"
+    parent: 0
+
+  # Testimonials
+  #- title: "Posteaza oferta"
+  #  url: "https://edubenefits.scoalabritanica.ro/beneficii/2023/06/20/ofera-beneficii/"
+  #  parent: 0
+
+  # Blog
+  #- title: "Vezi oferte"
+  #  url: "#blog-section"
+  #  parent: 0
+  
+  # Additional Pages
+  #- title: "Beneficii"
+  #  url: ""
+  #  parent: 1
+  #  childs:
+  #      - title: "Ofera Beneficii"
+  #        url: "https://edubenefits.scoalabritanica.ro/ofera/"
+
+  #      - title: "Vezi Beneficii"
+  #        url: "https://edubenefits.scoalabritanica.ro/works"
+
+  # Additional Pages
+  #- title: "Aboneaza-te!"
+  #  url: ""
+  #  parent: 1
+  #  childs:
+  #      - title: "Individual"
+  #        url: "https://british-school.profixcard.ro/inregistrare"
+
+  #      - title: "Grup"
+  #        url: "https://british-school.profixcard.ro/inregistrare"
+
+   # Pricing
+  - title: "Posteaza oferta"
+    url: "https://edubenefits.scoalabritanica.ro/ofera/"
+    parent: 0
+
+  # Pricing
+  - title: "Vezi oferte"
+    url: "https://edubenefits.scoalabritanica.ro/works/"
+    parent: 0
+
+     # Aboneaza-te!
+  - title: "Aboneaza-te!"
+    url: "https://british-school.profixcard.ro/inregistrare/loc01/registration/virtual"
+    parent: 0
+
+  # Valabilitate
+  #  - title: "Verifica valabilitate card"
+  #  url: "https://british-school.profixcard.ro/card-check/"
+  #  parent: 0
+
+  - title: "Verifica valabilitate"
+    url: "https://british-school.profixcard.ro/card-check/"
+    parent: 0
+
+  # Contact
+  - title: "Contact"
+    url: "#contact-section"
+    parent: 0

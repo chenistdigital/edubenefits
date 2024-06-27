@@ -1,0 +1,67 @@
+# Theme Settings Configuration File
+##
+### use settings.yml file for configure colors, ui, rtl, sidebar, animation options
+
+### Main Settings
+settings:
+  skin: "light" # select initial skin option: "light" or "dark"
+
+### Preloader
+preloader:
+  logo:
+    image: "assets/img/logo2.png"
+    alt: "SRB"
+
+### Header
+header:
+  logo:
+    image: "assets/img/logo2.png"
+    alt: "SRB"
+
+### Social
+social:
+  - title: "Facebook"
+    icon: "fab fa-facebook"
+    url: "https://facebook.com/motivareangajati.ro"
+
+### Footer
+footer:
+  developer: "Dezvoltat de <strong>chenist.digital</strong>"
+  copyright: "<strong>EduBenefits</strong>. Toate drepturile rezervate."
+
+### Filters Settings
+portfolio:
+  layout: "list" # select works layout options: "Grid" or "List"
+  filters:
+    - name: "Educatie"
+      slug: "educatie"
+
+    - name: "sanatate"
+      slug: "sanatate"
+
+    - name: "Servicii"
+      slug: "servicii"
+
+    - name: "Ospitalitate"
+      slug: "ospitalitate"
+
+    - name: "Timp liber"
+      slug: "timp-liber"
+
+    - name: "Transport"
+      slug: "transport"
+
+    - name: "Produse"
+      slug: "produse"
+
+    - name: "Animale"
+      slug: "animale"
+
+    - name: "Servicii B2B"
+      slug: "servicii"
+
+    - name: "Alte servicii"
+      slug: "alte-servicii"
+
+    - name: "Constructii / amenajari"
+      slug: "constructii-amenajari"

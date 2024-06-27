@@ -1,0 +1,446 @@
+# Sections content configuration file
+##
+### use navigation.yml file to re-order, delete or add section of each card
+### here you can find all content in all pre-build sections
+
+### Hero [ hero-image ]
+hero:
+  image: "assets/img/profile2.png"
+  image_alt: "SRB"
+  title: "<b>Edu</b>Benefits"
+  before_title: "<br> <br> Primul instrument de <b>marketing comunitar</b> din România"
+  after_title: "Vino <strong>alaturi de noi!</strong>"
+  description: "Dacă ești persoană <b>juridică</b>, promovează-ți initiațivele, motivează-ți angajații sau fidelizează-ți clienții susținând educația prin contractarea serviciilor noastre de marketing social!
+  <br> Dacă ești persoană <b>fizică</b> și crezi că educația poate să arate și altfel, atunci abonează-te direct pe site!
+  "
+  button1:
+    label: "Persoana Fizica: Aboneaza-te!"
+    link: "#contact-section"
+  button2:
+    label: "Persoana Juridica: Cere oferta!"
+    link: "https://edubenefits.scoalabritanica.ro/contact"
+  button3:
+    label: "Descarca lista completa de oferte"
+    link: "https://docs.google.com/document/d/1-4Qi0iPOeQL2x4az3q8emdF31oknEQ_z/"
+  bg_title: "Despre"
+
+  info:
+    - num: "130 <strong>+</strong>"
+      value: "de oferte <strong>pentru utilizatori</strong>"
+
+    - num: "80<strong>+</strong>"
+      value: "Parteneri <strong>in retea</strong>"
+
+    - num: "40<strong>+</strong>"
+      value: "<strong>Clienti</strong> corporate"
+### Services [ services ]
+services:
+  title: "Despre"
+  subtitle: "Cardul <b>EduBenefits</b>"
+  bg_title: "Despre"
+
+  items:
+    - title: "Solutia potrivita"
+      subtitle: "Cine suntem"
+      text: "Cardul EduBenefits este un instrument inovator de beneficii extrasalariale dezvoltat de Asociația Română a Tinerilor cu Inițiativă, fiind primul card din România care utilizează marketingul comunitar pentru a finanța programe educaționale precum Școala Româno-Britanică, Stop Analfabetism Drept Moștenire, Școli SMART pentru copii SMART și pentru a oferi în schimb beneficii angajaților sau posibilitatea de fidelizare a clienților.
+ "
+      button_label: "Detalii"
+      button_link: "/despre"
+
+    - title: "Ce primesti?"
+      subtitle: "Abonatii directi"
+      text: "Dacă vrei să susții proiecte educaționale unice și crezi să educația trebuie să arate diferit în următorii ani, poți să te abonezi direct pe site și astfel beneficiezi de zeci de gratuități și reduceri de la partenerii EduBenefits, dar și de ofertele lor periodice! Mai mult, ai posibilitatea să descoperi companiile cele mai implicate social, așa că înveți să consumi produse și servicii de la cei care merită să te aibă drept client!"
+      button_label: "Detalii"
+      button_link: "/despre"
+
+    - title: "Ce primesc companiile?"
+      subtitle: "Companiile abonate"
+      text: "Marketingul comunitar este o activitate comercială prin care companiile, pe cont propriu sau în parteneriat cu o organizație non-profit sau o instituție, promovează o imagine, un produs sau un serviciu, în beneficiul ambelor parți.
+      Marketingul comunitar mai este un mijloc de a folosi puterea unei mărci, precum Școala Româno-Britanică, pentru a demonstra public angajamentul financiar luat de compania respectivă față de problemele sociale cele mai stringente, vizând în același timp și obiectivele de afaceri.
+      "
+      button_label: "Detalii"
+      button_link: "/despre"
+
+    - title: "M.A.G.I.C"
+      subtitle: "Resurse Umane"
+      text: "Conform Rusty Lindquist si David Mason, afla despre cum Cardul EduBenefits este M.A.G.I.C. (Meaning. Autonomy. Growth. Impact.  Connection.) puteți găsi accesând flipbookul"
+      button_label: "Detalii"
+      button_link: "https://issuu.com/cristinacatanabuca/docs/magic.pptx "
+
+    - title: "Marketing comunitar"
+      subtitle: "Marketing"
+      text: "Termenul de marketing comunitar vorbește de la sine. Scopul său principal este de a implica publicul printr-o conversație neintruzivă. În timp ce strategiile de bază, cum ar fi PR, publicitatea, marketingul de conținut și promoțiile, urmăresc să atragă mai mulți clienți noi, marketingul comunitar este menit să satisfacă nevoile clienților existenți"
+      button_label: "Detalii"
+      button_link: "/despre"
+
+    - title: "Scurta prezentare"
+      subtitle: "Cunoaste-ne"
+      text: "În 2017 a luat naștere Cardul EduBenefits din dorința de a pune la un loc cei mai importanți actori din comunitate care pot face o diferență prin implicarea lor în zona educațională: mari angajatori, angajați, părinți, profesori, furnizori de produse și servicii din comunitățile locale din România. În prezent, Cardul EduBenefits oferă beneficii în Craiova, Suceava, Galați, Alba Iulia, București, Bacău, Campulung, Constanța, Focșani, Iași, Oradea, Pitești, Râmnicu Vâlcea, Pitești, Slobozia și Timișoara."
+      button_label: "Vezi filmulet"
+      button_link: "https://youtu.be/1nRR_hq_qeo"
+
+
+### Testimonials [ testimonials ]
+testimonials:
+  title: "Oferte incluse"
+  #subtitle: "in toate <b>abonamentele </b> Edubenefits"
+  bg_title: "Inclus"
+
+  items:
+#    - image: "assets/img/testimonials/testi4-2.jpg"
+#      name: "TRIOS"
+#      role: "CEO SRB"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#      text: "Sustin Edubenefits, oferind gratuitati tuturor posesorilor de abonament."
+
+    - image: "assets/img/logos/telios.png"
+      name: "Telios Care "
+#      role: "Owner QFort"
+      text: "Telemedicina este cea mai recenta si revolutionara abordare in lumea serviciilor medicale, care ofera acces nelimitat, 24/7 la asistenta medicala certificata, indiferent de zi sau ora."
+
+    - image: "assets/img/logos/moving.png"
+      name: "4 Moving"
+#      role: "4moving.ro"
+      text: "4 intrări pe lună la sală incluse in abonamentul EduBenefits"
+
+    - image: "assets/img/logos/chenist.png"
+      name: "CHENIST Cybersecurity"
+#      role: "resources.chenist.academy"
+      text: "Oferim acces VIP in platforma de continut Cyber Hygiene, tuturor posesorilor de abonamente EduBenefits."
+
+
+#    - image: "assets/img/testimonials/testi4-3.jpg"
+#      name: "Andreea Iovita"
+#      role: "Psiholog"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#    - image: "assets/img/testimonials/testi4-5.jpg"
+#      name: "Florin Sanda"
+#      role: "Serial Antreprenor"
+#      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+
+### Services [ services ]
+services:
+  title: "Locatii"
+  subtitle: " <b></b>"
+  bg_title: "locatii"
+
+  items:
+    - title: "Romania"
+      subtitle: "Oferte la nivel national"
+      text: " "
+      button_label: "National"
+      button_link: "/national"
+
+    - title: "Oltenia"
+      subtitle: "Oferte in Oltenia"
+      text: " "
+      button_label: "Oltenia"
+      button_link: "/craiova"
+
+    - title: "Moldova"
+      subtitle: "Oferte in Moldova"
+      text: " "
+      button_label: "Moldova"
+      button_link: "/suceava"
+
+
+### Skills [ skills ]
+#skills:
+#  title: "Locatii"
+#  subtitle: "Oferte in <b>reteaua nationala</b>"
+#  bg_title: "Locatii"
+
+#  column1: 
+#    items:
+#      - label: "Craiova" #0-10 progress in dots
+#        text: "Oferte in Craiova"
+#        value: "85" #0-100 progress in %
+#       button_label: "Craiova"
+#        link: "https://www.edubenefits.scoalabritanica.ro/craiova"
+
+#      - label: "Clinici" #0-10 progress in dots
+#        text: "Retea de clinici, cabinete medicale si psihologice, acoperim intregul spectru medical."
+#        value: "75" #0-100 progress in %
+
+#  column2:
+#    items:
+#      - label: "Suceava" #0-10 progress in dots
+#        text: "Oferte in Suceava."
+#        value: "10" #0-100 progress in %
+#        button_label: "Suceava"
+#       link: "https://www.edubenefits.scoalabritanica.ro/suceava"
+
+#      - label: "Cybersecurity" #0-10 progress in dots
+#        text: "Protejarea datelor, Cyber Hygiene si control parental pentru scoli si familii, consultanta cybersecurity."
+#        value: "70" #0-100 progress in %
+
+#  column3:
+#    items:
+#      - label: "National" #0-10 progress in dots
+#        text: "Beneficii nationale."
+#        value: "30" #0-100 progress in %
+#        button_label: "National"
+#        link: "https://www.edubenefits.scoalabritanica.ro/national"
+#      - label: "Si multe altele" #0-10 progress in dots
+#        text: "Vino alaturi de partenerii nostri si contribuie cu serviciul tau la bunastarea tuturor!"
+#        value: "80" #0-100 progress in %
+
+### Istoric [ resume ]
+#resume:
+#  title: "Istoria"
+#  subtitle: "my <b>Story</b>"
+#  bg_title: "History"
+
+# education:
+#    title: "Beneficii per locati"
+#    items:
+#      - name: "Craiova"
+#        subname: "Oferte in Craiova"
+#        period: "2014 - 2016"
+#        text: "."
+
+#      - name: "Suceava"
+#        subname: "Oferte in Suceava"
+#        period: "2012 - 2014"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#      - name: "National"
+#        subname: "Oferte la nivel national"
+#        period: "2010 - 2012"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#  experience:
+#    title: "Locatii"
+#    items:
+#      - name: "Craiova"
+#        subname: "Oferte in Craiova"
+#        period: "2020 - <b>Present</b>"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#      - name: "Suceava"
+#        subname: "Beneficii in Suceava"
+#        period: "2018 - 2020"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#      - name: "National"
+#        subname: "Beneficii la nivel national"
+#        period: "2016 - 2018"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+### Pricing [ pricing ]
+pricing:
+  title: "Preturi"
+  subtitle: "membership <b> </b>"
+  bg_title: "Preturi"
+
+  items:
+    - name: "Lunar "
+      center: false
+      price: "150 <b>RON</b>"
+      price_after: "/ card"
+      text: "Achitarea pachetului se face o singură dată, apoi lunar, până la închiderea abonamentului, contul este debitat cu suma aferentă, fiind transmisă pe email o confirmare de plată."
+  #    list:
+  #      - value: "..."
+  #        included: true
+  #      - value: "..."
+  #        included: true
+  #      - value: "..."
+  #        included: false
+  #      - value: "..."
+  #        included: false
+      button:
+        label: "Alege"
+        link: "https://edubenefits.scoalabritanica.ro/contact"
+
+    - name: "Trimestrial "
+      center: true
+      label: "Popular"
+      price: "441 <b>RON</b>"
+      price_after: "/ card"
+      text: "Achitarea pachetului se face o singură dată, apoi la fiecare trei luni, până la închiderea abonamentului, sumele se vor debita din contul dumneavoastră, fiind transmisă pe email o confirmare de plată."
+    #    list:
+  #      - value: "..."
+  #        included: true
+  #      - value: "..."
+  #        included: true
+  #      - value: "..."
+  #        included: false
+  #      - value: "..."
+  #        included: false
+      button:
+        label: "Alege"
+        link: "#contact-section"
+    - name: "Anual "
+      center: true
+      label: "Avantajos"
+      price: "1668 <b>RON</b>"
+      price_after: "/ card"
+      text: "Achitarea pachetului se face o singură dată, apoi la fiecare trei luni, până la închiderea abonamentului, sumele se vor debita din contul dumneavoastră, fiind transmisă pe email o confirmare de plată."
+      button:
+        label: "Alege"
+        link: "https://edubenefits.scoalabritanica.ro/contact"
+    #- name: "Anual"
+    #  center: false
+    #  price: "1.249 <b>RON</b>"
+    #  price_after: "5 ani"
+    #  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+    #  list:
+    #    - value: "Brand Design"
+    #      included: true
+    #    - value: "Web Development"
+    #      included: true
+    #    - value: "Advertising"
+    #      included: true
+    #    - value: "Photography"
+    #      included: true
+    #  button:
+    #    label: "Start Project"
+    #    link: "#contact-section"
+
+
+### Pachete [ pachete ]
+pachete:
+  title: "Pachete"
+  subtitle: "MEMBERSHIP <b> </b>"
+  bg_title: "Preturi"
+
+  items:
+    - name: "Pachetul 1"
+      center: true
+      label: "Intro"
+      price: "Intre 750 si 4499 <b>RON</b>"
+      price_after: "/ luna"
+      text: " "
+      list:
+        - value: "Introducere oferte pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
+          included: true
+        - value: "Expunere ofertă pe site-ul EduBenefits"
+          included: true
+        - value: "Transmiterea de oferte către utilizatorii de card"
+          included: true
+        - value: "1 postare pe lună în Social Media"
+          included: true
+        - value: "Posibilitatea de a oferi materiale promoționale beneficiarilor ARTI"
+          included: true
+      button:
+        label: "Alege"
+        link: "https://edubenefits.scoalabritanica.ro/contact"
+
+    - name: "Pachetul 2"
+      center: true
+      label: "Popular"
+      price: "Intre 4500 si 14850 <b>RON</b>"
+      price_after: "/ luna"
+      text: " "
+      list:
+        - value: "Introducere oferte pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
+          included: true
+        - value: "Expunere ofertă pe site-ul EduBenefits"
+          included: true
+        - value: "Transmiterea de oferte către utilizatorii de card"
+          included: true
+        - value: "2 postare pe lună în Social Media"
+          included: true
+        - value: "Posibilitatea de a oferi materiale promoționale beneficiarilor ARTI"
+          included: true
+        - value: "Organizare de programe de voluntariat corporatist"
+          included: true      
+        - value: "Promovarea în cadrul evenimentelor ARTI"
+          included: true
+        - value: "Promovare prin ecrane de publicitate la intrarea în SRB și în diferite spații publice sau private cu denumirea de COMPANIE IMPLICATĂ ÎN EDUCAȚIE"
+          included: true
+      button:
+        label: "Alege"
+        link: "https://edubenefits.scoalabritanica.ro/contact"
+
+    - name: "Pachetul 3"
+      center: true
+      label: "Extra"
+      price: "Peste 15000 <b>RON</b>"
+      price_after: "/ luna"
+      text: " "
+      list:
+        - value: "Introducere oferte pe lista partenerilor EduBenefits, cu oferte pentru toți utilizatorii de card."
+          included: true
+        - value: "Expunere ofertă pe site-ul EduBenefits"
+          included: true
+        - value: "Transmiterea de oferte către utilizatorii de card"
+          included: true
+        - value: "2 postare pe lună în Social Media"
+          included: true
+        - value: "Posibilitatea de a oferi materiale promoționale beneficiarilor ARTI"
+          included: true
+        - value: "Organizare de programe de voluntariat corporatist"
+          included: true      
+        - value: "Promovarea în cadrul evenimentelor ARTI"
+          included: true
+        - value: "Promovare prin ecrane de publicitate la intrarea în SRB și în diferite spații publice sau private cu denumirea de COMPANIE IMPLICATĂ ÎN EDUCAȚIE"
+          included: true        
+        - value: "Roll-up al companiei la toate evenimentele ARTI, organizate în cadrul tuturor programelor: târguri SRB, conferințe, traininguri, Semimaratonul Craiovei, expozițiile publice de noi tehnologii în educație Școli SMART pentru copii SMART."
+          included: true
+        
+      button:
+        label: "Alege"
+        link: "https://edubenefits.scoalabritanica.ro/contact"
+
+    #- name: "Anual"
+    #  center: false
+    #  price: "1.249 <b>RON</b>"
+    #  price_after: "5 ani"
+    #  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+    #  list:
+    #    - value: "Brand Design"
+    #      included: true
+    #    - value: "Web Development"
+    #      included: true
+    #    - value: "Advertising"
+    #      included: true
+    #    - value: "Photography"
+    #      included: true
+    #  button:
+    #    label: "Start Project"
+    #    link: "#contact-section"
+
+
+
+
+### Blog [ blog ]
+#items generates from dir /_posts/*
+#blog:
+#  title: "Beneficii"
+#  subtitle: "Ofera <b>si primeste</b>"
+#  bg_title: "Beneficii"
+#  button:
+#    label: "Vezi parteneri"
+#    link: "blog/"
+
+### Contact [ contacts ]
+contacts:
+  title: "Contact"
+  subtitle: "Tinem <b>Legatura</b>"
+  bg_title: "Contact"
+
+  list:
+    - label: "Address"
+      icon: "far fa-map"
+      text: "Craiova, George Bibescu 15A"
+
+    - label: "Email"
+      icon: "far fa-envelope"
+      text: "edubenefits@gmail.com"
+
+    - label: "Telefon"
+      icon: "far fa-address-book"
+      text: "0771162178"
+
+### Parteneri [ Parteneri ]
+#items generates from dir /_works/*
+portfolio:
+  title: "Parteneri"
+  subtitle: "Oferte <b></b>"
+  bg_title: "Oferte"
+  button:
+    link: "works/"
+    label: "Vezi toti Partenerii"
